@@ -13,7 +13,7 @@ Elaboraremos um projeto que irá ajudar as pessoas a ficarem amparadas enquanto 
 - A maior meta é criar uma comunidade para conversar, debater e ajudar as pessoas sobre a segurança delas na rede. 
 - E o mais importante que consiga aproveitar a rede sem se arriscar e se comprometer :smile:
 
-# Índice/Sumário
+# Sumário
 
 * [Sobre](#sobre-o-projeto)
 * [Metas](#metas)
