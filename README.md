@@ -11,7 +11,7 @@ Elaboraremos um projeto que irá ajudar as pessoas a ficarem amparadas enquanto 
 - Que voçê tenha conhecimento dos perigos da *internet*
 - Que voçê consiga se amparar de forma simples e de forma clara.
 - A maior meta é criar uma comunidade para conversar, debater e ajudar as pessoas sobre a segurança delas na rede. 
-- É o mais importante que consiga aproveitar a rede sem se arriscar e se comprometer :smile:
+- E o mais importante que consiga aproveitar a rede sem se arriscar e se comprometer :smile:
 
 # Índice/Sumário
 
@@ -62,7 +62,9 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
 <table>
   <tr>
     <td align="center"><a href="https://github.com/LucasFernandesF"><img src="https://avatars.githubusercontent.com/u/103151835?v=4" width="100px;" alt=""/><br /><sub><b>Lucas Fernandes</b></sub></a><br /> <a>Líder de projeto</a></td>
-    
+     <td align="center"><a href="https://github.com/Nanikalango"><img src="https://avatars.githubusercontent.com/u/103152268?v=4" width="100px;" alt=""/><br /><sub><b>Giovane</b></sub></a><br />
+    <td align="center"><a href="https://github.com/marcoantoniobernardes"><img src="https://avatars.githubusercontent.com/u/103151935?v=4" width="100px;" alt=""/><br /><sub><b>Marco Antonio Bernandes</b></sub></a><br />        
+    <td align="center"><a href=" https://github.com/GustavoAlexanderMiranda "><img src="https://avatars.githubusercontent.com/u/103152268?v=4" width="100px;" alt=""/><br /><sub><b>Gustavo Alexander Miranda</b></sub></a><br />  
   <tr>
 <table
 <!-- markdownlint-restore -->
