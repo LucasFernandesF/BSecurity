@@ -61,7 +61,7 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/LucasFernandesF"><img src="https://avatars.githubusercontent.com/u/103151835?v=4" width="100px;" alt=""/><br /><sub><b>Willian G. Soares</b></sub></a><br /> <a>Líder de projeto</a></td>
+    <td align="center"><a href="https://github.com/LucasFernandesF"><img src="https://avatars.githubusercontent.com/u/103151835?v=4" width="100px;" alt=""/><br /><sub><b>Lucas Fernandes</b></sub></a><br /> <a>Líder de projeto</a></td>
     
   <tr>
 <table
