@@ -76,4 +76,4 @@ Este projeto está licenciado sob a Licença MIT,  consulte o arquivo [LICENSE.m
 
 # Agradecimentos
 
-Queria agradecer o [Professor Diego Augusto](github.com/profdiegoaugusto/), por nos orientar durante todo o projeto.
+Queria agradecer o <a href ="https://github.com/profdiegoaugusto">Professor Diego Augusto</a>, por nos orientar durante todo o projeto.
