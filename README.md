@@ -66,7 +66,8 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
     <td align="center"><a href="https://github.com/marcoantoniobernardes"><img src="https://avatars.githubusercontent.com/u/103151935?v=4" width="100px;" alt=""/><br /><sub><b>Marco Antonio Bernandes</b></sub></a><br />        
     <td align="center"><a href="https://github.com/GustavoAlexanderMiranda"><img src="https://avatars.githubusercontent.com/u/103151822?v=4" width="100px;" alt=""/><br /><sub><b>Gustavo Alexander Miranda</b></sub></a><br />  
     <td align="center"><a href="https://github.com/joaorubensouza"><img src="https://avatars.githubusercontent.com/u/103151841?v=4" width="100px;" alt=""/><br /><sub><b>João Ruben Souza</b></sub></a><br />  
-    <td align="center"><a href="https://github.com/MarcoAntonioMj"><img src="https://avatars.githubusercontent.com/u/103151980?v=4" width="100px;" alt=""/><br /><sub><b>Marco Antonio</b></sub></a><br />        
+    <td align="center"><a href="https://github.com/MarcoAntonioMj"><img src="https://avatars.githubusercontent.com/u/103151980?v=4" width="100px;" alt=""/><br /><sub><b>Marco Antonio</b></sub></a><br />  
+    <td align="center"><a href="https://github.com/MarcoAntonioMj"><img src="https://avatars.githubusercontent.com/u/103151980?v=4" width="100px;" alt=""/><br /><sub><b>Marco Antônio Bernandes</b></sub></a><br />   
   <tr>
 <table
 <!-- markdownlint-restore -->
