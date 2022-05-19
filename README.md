@@ -53,6 +53,8 @@ Elaboraremos um projeto que irá ajudar as pessoas a ficarem amparadas enquanto 
 # Contribuição
 
 Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o nosso código de conduta e o processo de envio de solicitações *pull* (*Pull Request*) para nós.
+A contribuição também é um projeto do vida e carreira da faculdade 
+A primeira etapa
 
 # Autores
 
