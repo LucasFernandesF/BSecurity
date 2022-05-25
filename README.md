@@ -54,7 +54,7 @@ Elaboraremos um projeto que irá ajudar as pessoas a ficarem amparadas enquanto 
 
 Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o nosso código de conduta e o processo de envio de solicitações *pull* (*Pull Request*) para nós.
 A contribuição também é um projeto do vida e carreira da faculdade 
-A primeira etapa
+A [primeira etapa] (https://mediacdns3.ulife.com.br/PAT/Upload/4138691/FichadeEntrega1CompletaLucasFernandesFirmino_20220518200044.pdf) 
 
 # Autores
 
