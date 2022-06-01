@@ -45,6 +45,7 @@ Elaboraremos um projeto que irá ajudar as pessoas a ficarem amparadas enquanto 
 A contribuição também é um projeto do vida e carreira da faculdade da Una Betim.
      A [primeira etapa](https://mediacdns3.ulife.com.br/PAT/Upload/4138691/FichadeEntrega1CompletaLucasFernandesFirmino_20220518200044.pdf) 
      A [segunda etapa](https://mediacdns3.ulife.com.br/PAT/Upload/4138691/FichadeEntregaEtapa2LucasFernandesFirmino_20220515223539.pdf)
+     A [terceira etapa](https://mediacdns3.ulife.com.br/PAT/Upload/4138691/FichadeEntregaEtapa3LucasFernandesFirmino_20220601193350.pdf)
 
 # Tecnologias Usadas
 
